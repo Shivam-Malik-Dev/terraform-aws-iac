@@ -69,7 +69,7 @@ terraform init
 ```
 
 <p align="center">
-<img src=".screenshots/01-terraform-init.png" width="100%">
+<img src="screenshots/01-terraform-init.png" width="100%">
 </p>
 
 <p align="center">
