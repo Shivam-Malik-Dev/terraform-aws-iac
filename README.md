@@ -69,7 +69,7 @@ terraform init
 ```
 
 <p align="center">
-<img src="./docs/screenshots/01-terraform-init.png" width="100%">
+<img src=".screenshots/01-terraform-init.png" width="100%">
 </p>
 
 <p align="center">
@@ -312,4 +312,4 @@ terraform destroy
 https://github.com/Shivam-Malik-Dev
 
 **LinkedIn:**  
-https://www.linkedin.com/in/shivam-malik-dev/
+https://www.linkedin.com/in/shivam-malik-59b13a29b/
