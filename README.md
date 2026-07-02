@@ -87,7 +87,7 @@ terraform validate
 ```
 
 <p align="center">
-<img src="./docs/screenshots/02-terraform-validate.png" width="100%">
+<img src="screenshots/02-terraform-validate.png" width="100%">
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ terraform plan
 ```
 
 <p align="center">
-<img src="./docs/screenshots/03-terraform-plan.png" width="100%">
+<img src="screenshots/03-terraform-plan.png" width="100%">
 </p>
 
 <p align="center">
@@ -119,7 +119,7 @@ terraform plan
 Infrastructure configuration including AWS Provider, EC2 Instance, Tags and User Data.
 
 <p align="center">
-<img src="./docs/screenshots/04-main-tf-file.png" width="100%">
+<img src="screenshots/04-main-tf-file.png" width="100%">
 </p>
 
 <p align="center">
@@ -137,7 +137,7 @@ terraform apply
 ```
 
 <p align="center">
-<img src="./docs/screenshots/05-terraform-apply.png" width="100%">
+<img src="screenshots/05-terraform-apply.png" width="100%">
 </p>
 
 <p align="center">
@@ -151,7 +151,7 @@ terraform apply
 Terraform successfully provisions the EC2 instance on AWS.
 
 <p align="center">
-<img src="./docs/screenshots/06-ec2-instance-created.png" width="100%">
+<img src="screenshots/06-ec2-instance-created.png" width="100%">
 </p>
 
 <p align="center">
@@ -165,7 +165,7 @@ Terraform successfully provisions the EC2 instance on AWS.
 The User Data script automatically installs Docker, pulls the Docker image and starts the container.
 
 <p align="center">
-<img src="./docs/screenshots/07-docker-container-running.png" width="100%">
+<img src="screenshots/07-docker-container-running.png" width="100%">
 </p>
 
 <p align="center">
@@ -179,7 +179,7 @@ The User Data script automatically installs Docker, pulls the Docker image and s
 Inbound rules configured for SSH (22) and Application Port (8000).
 
 <p align="center">
-<img src="./docs/screenshots/08-security-group.png" width="100%">
+<img src="screenshots/08-security-group.png" width="100%">
 </p>
 
 <p align="center">
@@ -197,7 +197,7 @@ http://<EC2-Public-IP>:8000/todo
 ```
 
 <p align="center">
-<img src="./docs/screenshots/09-application-running.png" width="100%">
+<img src="screenshots/09-application-running.png" width="100%">
 </p>
 
 <p align="center">
@@ -215,7 +215,7 @@ terraform destroy
 ```
 
 <p align="center">
-<img src="./docs/screenshots/10-terraform-destroy.png" width="100%">
+<img src="screenshots/10-terraform-destroy.png" width="100%">
 </p>
 
 <p align="center">
